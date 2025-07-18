@@ -44,5 +44,4 @@ d:\Go\src\go-server\
 - `/form` - Handles POST requests for form submissions.
 - `/hello` - Responds with "Hello, World!" for GET requests.
 
-## License
-This project is licensed under the MIT License.
+
